@@ -12,7 +12,7 @@ EchoGroove is a dynamic and interactive music streaming application designed to 
 - 🛠 **User Authentication** – Secure login and user session management.
 - 🎸 **Listen to music, play next and previous songs** – Smooth track navigation.
 - 🎧 **Admin dashboard to create albums and songs** – Manage music content efficiently.
-- 💬 **Real-time Chat App integrated into Spotify** – Chat with others while enjoying music.
+- 💬 **Real-time Chat App integrated** – Chat with others while enjoying music.
 - 👨🏼‍💼 **Online/Offline status** – See user availability in real-time.
 - 👀 **See what other users are listening to in real-time** – Discover trending music.
 - 📊 **Aggregate data for the analytics page** – Get insights into music trends.
